@@ -1,0 +1,34 @@
+/** quoting styles for q-tag **/
+*:lang(de) {
+	quotes: "„" "“" "‚" "‘";
+	q {
+		&:before { content: "„"; }
+		&:after { content: "“"; }
+		q {
+			&:before { content: "‚"; }
+			&:after { content: "‘"; }
+		}
+	}
+}
+*:lang(fr) {
+	quotes: "«" "»" "‹" "›";
+	q {
+		&:before { content: "«"; }
+		&:after { content: "»";	}
+		q {
+			&:before { content: "‹"; }
+			&:after { content: "›"; }
+		}
+	}
+}
+*:lang(en) {
+	quotes: "“" "”" "‘" "’";
+	q {
+		&:before { content: "“"; }
+		&:after { content: "”";	}
+		q {
+			&:before { content: "‘"; }
+			&:after { content: "’"; }
+		}
+	}
+}

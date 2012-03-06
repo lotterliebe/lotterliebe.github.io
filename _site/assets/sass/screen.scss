@@ -1,0 +1,101 @@
+@import "compass/reset";
+@import "compass";
+@import "mixin/emlayout";
+@import "base/quoting";
+
+// CONFIG
+$base-font-size: 16px;
+$base-line-height: 22px;
+$text-color: #464646;
+$base-font: "Cardo", "Palatino", sans-serif;
+
+$highlight-color: #C52775;
+
+$headline-color: #000;
+$headline-font: "Cardo", "Palatino";
+
+// BASICS
+@include establish-baseline();
+
+body, html {
+  font-family: $base-font;
+  font-weight: normal;
+  color: $text-color;
+}
+#{headings()} {
+  font-style: italic;
+	font-weight: 400;
+  color: $headline-color;
+  font-family: $headline-font;
+}
+
+
+// APPLICATION
+body {
+	padding: pxToEm(10px) pxToEm(20px);
+  @include background(
+    linear-gradient(left, $highlight-color, #7D1D4F)
+  );
+}
+
+a {
+  @include link-colors($highlight-color, #7D1D4F);
+  &:hover, &:active {
+    -moz-outline-style: none;
+    outline: none;
+  }
+}
+
+h1 {
+  @include adjust-font-size-to($base-font-size * 2.5);
+	@include trailer(0.5);
+	small {
+		line-height: 1em;
+		color: $highlight-color;
+		display: block;
+		@include clearfix();
+		font-size: 75%;
+		color: $highlight-color;
+	}
+}
+h2 {
+  @include adjust-font-size-to($base-font-size * 2);
+}
+p, ul, ol, dl {
+	@include trailer(1);
+}
+article, section {
+	header {
+		@include leader(1);
+	}
+	@include trailer(1);
+	h1 {
+	  @include adjust-font-size-to($base-font-size * 2);
+	}
+	h2 {
+		@include adjust-font-size-to($base-font-size * 1.5);
+	}
+}
+
+#app {
+  max-width: pxToEm(640px);
+  margin: pxToEm(20px) auto;
+  padding: pxToEm(20px);
+  color: $text-color;
+	@include box-shadow(rgba(0, 0, 0, 0.25) 5px 5px 50px);
+  @include background(#fff);
+  > header {
+
+  }
+  > footer {
+    @include adjust-font-size-to($base-font-size - 4px);
+    text-align: center;
+  }
+}
+
+.vcard {
+  a[rel="external"], a[href^="tel"] {
+    color: $text-color;
+    text-decoration: none;
+  }
+}

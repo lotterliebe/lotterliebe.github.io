@@ -1,0 +1,251 @@
+/* line 17, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* line 20, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+body {
+  line-height: 1;
+}
+
+/* line 22, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 24, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 26, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 28, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 101, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 30, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 114, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/** quoting styles for q-tag **/
+/* line 2, ../sass/base/_quoting.scss */
+*:lang(de) {
+  quotes: "„" "“" "‚" "‘";
+}
+/* line 5, ../sass/base/_quoting.scss */
+*:lang(de) q:before {
+  content: "„";
+}
+/* line 6, ../sass/base/_quoting.scss */
+*:lang(de) q:after {
+  content: "“";
+}
+/* line 8, ../sass/base/_quoting.scss */
+*:lang(de) q q:before {
+  content: "‚";
+}
+/* line 9, ../sass/base/_quoting.scss */
+*:lang(de) q q:after {
+  content: "‘";
+}
+
+/* line 13, ../sass/base/_quoting.scss */
+*:lang(fr) {
+  quotes: "«" "»" "‹" "›";
+}
+/* line 16, ../sass/base/_quoting.scss */
+*:lang(fr) q:before {
+  content: "«";
+}
+/* line 17, ../sass/base/_quoting.scss */
+*:lang(fr) q:after {
+  content: "»";
+}
+/* line 19, ../sass/base/_quoting.scss */
+*:lang(fr) q q:before {
+  content: "‹";
+}
+/* line 20, ../sass/base/_quoting.scss */
+*:lang(fr) q q:after {
+  content: "›";
+}
+
+/* line 24, ../sass/base/_quoting.scss */
+*:lang(en) {
+  quotes: "“" "”" "‘" "’";
+}
+/* line 27, ../sass/base/_quoting.scss */
+*:lang(en) q:before {
+  content: "“";
+}
+/* line 28, ../sass/base/_quoting.scss */
+*:lang(en) q:after {
+  content: "”";
+}
+/* line 30, ../sass/base/_quoting.scss */
+*:lang(en) q q:before {
+  content: "‘";
+}
+/* line 31, ../sass/base/_quoting.scss */
+*:lang(en) q q:after {
+  content: "’";
+}
+
+/* line 51, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+body {
+  font-size: 100%;
+  line-height: 1.375em;
+}
+
+/* line 55, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+html > body {
+  font-size: 16px;
+}
+
+/* line 20, ../sass/screen.scss */
+body, html {
+  font-family: "Cardo", "Palatino", sans-serif;
+  font-weight: normal;
+  color: #464646;
+}
+
+/* line 25, ../sass/screen.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-style: italic;
+  font-weight: 400;
+  color: black;
+  font-family: "Cardo", "Palatino";
+}
+
+/* line 34, ../sass/screen.scss */
+body {
+  padding: 0.625em 1.25em;
+  background: -webkit-gradient(linear, 0% 50%, 100% 50%, color-stop(0%, #c52775), color-stop(100%, #7d1d4f));
+  background: -webkit-linear-gradient(left, #c52775, #7d1d4f);
+  background: -moz-linear-gradient(left, #c52775, #7d1d4f);
+  background: -o-linear-gradient(left, #c52775, #7d1d4f);
+  background: -ms-linear-gradient(left, #c52775, #7d1d4f);
+  background: linear-gradient(left, #c52775, #7d1d4f);
+}
+
+/* line 41, ../sass/screen.scss */
+a {
+  color: #c52775;
+}
+/* line 24, ../../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.11.5/frameworks/compass/stylesheets/compass/typography/links/_link-colors.scss */
+a:hover {
+  color: #7d1d4f;
+}
+/* line 43, ../sass/screen.scss */
+a:hover, a:active {
+  -moz-outline-style: none;
+  outline: none;
+}
+
+/* line 49, ../sass/screen.scss */
+h1 {
+  font-size: 2.5em;
+  line-height: 1.1em;
+  margin-bottom: 0.688em;
+}
+/* line 52, ../sass/screen.scss */
+h1 small {
+  line-height: 1em;
+  color: #c52775;
+  display: block;
+  overflow: hidden;
+  *zoom: 1;
+  font-size: 75%;
+  color: #c52775;
+}
+
+/* line 61, ../sass/screen.scss */
+h2 {
+  font-size: 2em;
+  line-height: 1.375em;
+}
+
+/* line 64, ../sass/screen.scss */
+p, ul, ol, dl {
+  margin-bottom: 1.375em;
+}
+
+/* line 67, ../sass/screen.scss */
+article, section {
+  margin-bottom: 1.375em;
+}
+/* line 68, ../sass/screen.scss */
+article header, section header {
+  margin-top: 1.375em;
+}
+/* line 72, ../sass/screen.scss */
+article h1, section h1 {
+  font-size: 2em;
+  line-height: 1.375em;
+}
+/* line 75, ../sass/screen.scss */
+article h2, section h2 {
+  font-size: 1.5em;
+  line-height: 1.833em;
+}
+
+/* line 80, ../sass/screen.scss */
+#app {
+  max-width: 40em;
+  margin: 1.25em auto;
+  padding: 1.25em;
+  color: #464646;
+  -moz-box-shadow: rgba(0, 0, 0, 0.25) 5px 5px 50px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 5px 5px 50px;
+  -o-box-shadow: rgba(0, 0, 0, 0.25) 5px 5px 50px;
+  box-shadow: rgba(0, 0, 0, 0.25) 5px 5px 50px;
+  background: white;
+}
+/* line 90, ../sass/screen.scss */
+#app > footer {
+  font-size: 0.75em;
+  line-height: 1.833em;
+  text-align: center;
+}
+
+/* line 97, ../sass/screen.scss */
+.vcard a[rel="external"], .vcard a[href^="tel"] {
+  color: #464646;
+  text-decoration: none;
+}
