@@ -4,8 +4,9 @@ layout: default
 Jahrgang 1989, Studium der Deutschen Literatur und der
 Kulturwissenschaft an der Humboldt-Universität Berlin (HU), Abschluss 2011.
 Verfasse Artikel für unterschiedliche Online-Medien, u.a. für
-den Reiseblog [Spotted by Locals](http://www.spottedbylocals.com/berlin/). 
-Seit 2009 bin ich Autorin und Redakteurin der Online-Zeitung [Berliner Gazette](http://berlinergazette.de) und 
+das Reisemagazin [Spotted by Locals](http://www.spottedbylocals.com/berlin/) und das [realeyz-Filmblog](http://www.realeyz.tv/de/blog). 
+Als Texterin bin ich u.a. für das [Neighborhoods-Magazin von Airbnb]((https://www.airbnb.de/locations) tätig.
+Seit 2009 bin ich Autorin und Redakteurin der Online-Zeitung [Berliner Gazette](http://berlinergazette.de) und
 unterstütze [Workshops und Konferenzen](http://berlinergazette.de/seminar/projekte/) des Berliner Gazette e.V.
 
 Am Institut für Deutsche Literatur der HU konzipierte und leitete ich zwischen 2010 und 2011 ein Tutorium zum Thema 
@@ -22,21 +23,26 @@ Verlag.
 *  [Twitter](https://twitter.com/#!/Lotterliebe)
 *  [Instagram](http://ink361.com/#/users/6785007/photos)
 
-## Schreibe für
+## Ich schreibe für
 
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
 *  [Spottedbylocals.com](http://www.spottedbylocals.com/berlin/)
+*  [realeyz](http://www.realeyz.tv/de/blog)
 *  [Guidewriters](https://guidewriters.com/)
 *  [Lotterliebe.de](http://lotterliebe.de)
 *  [machesschoen.de](http://machesschoen.de/)
 *  [foobugs](http://foobugs.com)
 
-## Arbeitete für
+## Ich texte für
+
+* [Airbnb Neighborhoods](https://www.airbnb.de/locations)
+
+## Ich arbeitete für
 
 *  [Diplomatisches Magazin](http://www.diplomatisches-magazin.de/) (Print)
 *  [Radio blau/Radioverein Leipzig e.V.](http://www.radioblau.de/) (Hörfunk)
 
-## Schreibe gern über
+## Ich schreibe gern über
 
 *  Mode & DIY
 *  Berlin & Stadt
