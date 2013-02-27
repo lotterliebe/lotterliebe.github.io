@@ -5,9 +5,9 @@ Jahrgang 1989, Studium der Deutschen Literatur und der
 Kulturwissenschaft an der Humboldt-Universität Berlin (HU), Abschluss 2011.
 Verfasse Artikel für unterschiedliche Online-Medien, u.a. für
 das Reisemagazin [Spotted by Locals](http://www.spottedbylocals.com/berlin/) und das [realeyz-Filmblog](http://www.realeyz.tv/de/blog). 
-Als Texterin bin ich u.a. für das [Neighborhoods-Magazin von Airbnb]((https://www.airbnb.de/locations) tätig.
-Seit 2009 bin ich Autorin und Redakteurin der Online-Zeitung [Berliner Gazette](http://berlinergazette.de) und
-unterstütze [Workshops und Konferenzen](http://berlinergazette.de/seminar/projekte/) des Berliner Gazette e.V.
+Als Texterin bin ich außerdem für das [Neighborhoods-Magazin von Airbnb]((https://www.airbnb.de/locations) tätig.
+Seit 2009 unterstütze ich die Online-Zeitung [Berliner Gazette](http://berlinergazette.de) als Autorin und Redakteurin und
+wirke bei [Workshops und Konferenzen](http://berlinergazette.de/seminar/projekte/) des Berliner Gazette e.V. mit.
 
 Am Institut für Deutsche Literatur der HU konzipierte und leitete ich zwischen 2010 und 2011 ein Tutorium zum Thema 
 „Vernetzt schreiben – Theorie und Praxis neuer Publikationsformen im Internet“. Meine
@@ -27,7 +27,7 @@ Verlag.
 
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
 *  [Spottedbylocals.com](http://www.spottedbylocals.com/berlin/)
-*  [realeyz](http://www.realeyz.tv/de/blog)
+*  [realeyz-Filmblog](http://www.realeyz.tv/de/blog)
 *  [Guidewriters](https://guidewriters.com/)
 *  [Lotterliebe.de](http://lotterliebe.de)
 *  [machesschoen.de](http://machesschoen.de/)
