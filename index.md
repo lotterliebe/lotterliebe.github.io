@@ -32,9 +32,9 @@ Verlag.
 *  [foobugs](http://foobugs.com)
 
 ## Ich arbeitete für
-*  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/index.html)
-*  [Diplomatisches Magazin](http://www.diplomatisches-magazin.de/) (Print)
-*  [Radio blau/Radioverein Leipzig e.V.](http://www.radioblau.de/) (Hörfunk)
+*  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/index.html) (Creative Content Management für Online-Advertorials)
+*  [Diplomatisches Magazin](http://www.diplomatisches-magazin.de/) (Print-Praktikum)
+*  [Radio blau/Radioverein Leipzig e.V.](http://www.radioblau.de/) (Hörfunk-Praktikum)
 
 ## Ich schreibe gern über
 
