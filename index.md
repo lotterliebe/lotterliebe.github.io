@@ -4,9 +4,9 @@ layout: default
 [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 
 #Ich blogge unter
-->*  [Lotterliebe.de](http://lotterliebe.de)<-
-->*  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)<-
-->*  [Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)<-
+->[Lotterliebe.de](http://lotterliebe.de)<-
+->[Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)<-
+->[Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)<-
 
 #Referenzen
 *  [Airbnb Neighborhoods](https://www.airbnb.de/locations)
