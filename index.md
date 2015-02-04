@@ -8,10 +8,11 @@ Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 *  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)
 *  [Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)
 
-##Ich schrieb für
+##Meine Referenzen
 *  [Airbnb Neighborhoods](https://www.airbnb.de/locations)
 *  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/)
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
+*  [Thomas Beetz Photography - Blog](http://thomasbeetzphotography.com/wedding-stories/)
 *  [realeyz-Filmblog](http://www.realeyz.tv/de/blog/author/sarahcurth)
 *  [Guidewriters](https://guidewriters.com/)
 *  [foobugs](http://foobugs.com)
