@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-[hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
+_[hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)_
 
-#Ich blogge unter
+##Ich blogge unter
 ->[Lotterliebe.de](http://lotterliebe.de)<-
 ->[Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)<-
 ->[Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)<-
