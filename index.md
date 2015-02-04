@@ -3,12 +3,13 @@ layout: default
 ---
 Ich komme aus Berlin, schreibe, übersetze, poste & liebe DIY.      
 Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
-##Ich blogge unter
+
+## Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
 *  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)
 *  [Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)
 
-##Meine Referenzen
+## Meine Referenzen
 *  [Airbnb Neighborhoods](https://www.airbnb.de/locations)
 *  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/)
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
@@ -18,7 +19,7 @@ Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 *  [Guidewriters](https://guidewriters.com/)
 *  [foobugs](http://foobugs.com)
 
-##Finde mich auf
+## Finde mich auf
 *  [Xing](https://www.xing.com/profile/Sarah_Curth)
 *  [LinkedIn](https://www.linkedin.com/in/sarahcurth)
 *  [Twitter](https://twitter.com/#!/Lotterliebe)
