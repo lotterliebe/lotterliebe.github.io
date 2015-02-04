@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Ich komme aus Berlin, schreibe, übersetze und liebe DIY.      
+Ich komme aus Berlin, schreibe, übersetze, poste & liebe DIY.      
 Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 ##Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
@@ -12,6 +12,7 @@ Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 *  [Airbnb Neighborhoods](https://www.airbnb.de/locations)
 *  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/)
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
+*  [Europa-Universität Viadrina](https://www.europa-uni.de)
 *  [Thomas Beetz Photography - Blog](http://thomasbeetzphotography.com/wedding-stories/)
 *  [realeyz-Filmblog](http://www.realeyz.tv/de/blog/author/sarahcurth)
 *  [Guidewriters](https://guidewriters.com/)
