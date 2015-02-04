@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-_ [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de) _
+[hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 
 ##Ich blogge unter
 [Lotterliebe.de](http://lotterliebe.de)
