@@ -1,5 +1,5 @@
 pygments: true
-markdown: maruku
+markdown: kramdown
 
 title: Sarah Curth
 subtitle: Freie Texterin & Online-Redakteurin
