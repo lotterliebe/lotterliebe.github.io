@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-[hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
+Ich komme aus Berlin, schreibe, übersetze und liebe DIY. 
+Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 ##Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
 *  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)
