@@ -8,8 +8,9 @@ Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 *  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)
 *  [Spottedbylocals.com](http://spottedbylocals.com/berlin/author/sarahcurth)
 
-##Referenzen
+##Ich schrieb für
 *  [Airbnb Neighborhoods](https://www.airbnb.de/locations)
+*  [Axel Springer Media Impact](http://www.axelspringer-mediapilot.de/)
 *  [Berlinergazette.de](http://berlinergazette.de/author/sarah-curth/)
 *  [realeyz-Filmblog](http://www.realeyz.tv/de/blog/author/sarahcurth)
 *  [Guidewriters](https://guidewriters.com/)
