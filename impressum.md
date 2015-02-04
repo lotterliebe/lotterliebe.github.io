@@ -5,7 +5,7 @@ layout: default
 # Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Sarah Curth  
-Warschauer Str. 59a  
+Warschauer Str. 58a  
 10243 Berlin  
 Kontakt: hallo@sarahcurth.de
 
