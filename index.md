@@ -2,7 +2,6 @@
 layout: default
 ---
 [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
-
 ##Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
 *  [Schönes Frankfurt/Oder](http://schoenesffo.tumblr.com/)
