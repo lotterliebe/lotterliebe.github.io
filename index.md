@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Ich komme aus Berlin, schreibe, übersetze und liebe DIY. 
+Ich komme aus Berlin, schreibe, übersetze und liebe DIY.      
 Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 ##Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
