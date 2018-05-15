@@ -7,37 +7,46 @@
   padding: 0;
 }
 
-@import url('http://fonts.googleapis.com/css?family=Cardo:400italic,400');
+@import url('http://fonts.googleapis.com/css?family=Cardo|Open+Sans');
 
-$base-font-size: 16px;
+$base-font-size: 14px;
 $text-color: #464646;
-$base-font: "Cardo", "Palatino", sans-serif;
+$base-font: "Open Sans", sans-serif;
 $body-bg: #C52775;
 $highlight-color: #C52775;
 $headline-color: #000;
-$headline-font: "Cardo", "Palatino";
+$headline-font: "Cardo", serif;
 
 // typography
 body {
   font-family: $base-font;
   font-size: $base-font-size;
-  line-height: 1.15;
+  line-height: 1.65;
   color: $text-color;
   font-weight: normal;
   -webkit-text-size-adjust: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $headline-font;
-  font-style: italic;
-	font-weight: 400;
+  font-weight: normal;
   font-size: 2em;
   margin: 0.67em 0;
+}
+h1 > small {
+  display: block;
+  clear: both;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
 }
 strong {
   font-weight: bolder;
 }
 small {
-  font-size: 60%;
+  font-size: 75%;
 }
 p, ul, ol, {
   margin-bottom: 1em;
@@ -78,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
     left: auto;
     right: auto;
   }
-  max-width: 640px;
+  max-width: 680px;
   padding: 2em 3em;
   box-shadow: 5px 5px 50px darken($body-bg, 20);
 }
