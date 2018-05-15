@@ -1,6 +1,6 @@
 # Sarah Curth Website
 
-This is the repository for [saraheichner.de](http://www.saraheichner.de)
+This is the repository for [www.saraheichner.de](http://www.saraheichner.de)
 
 Based on the automatic site generator [jekyll](https://jekyllrb.com) it’s deployed to [github pages](https://pages.github.com/).
 
