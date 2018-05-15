@@ -1,0 +1,90 @@
+---
+---
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+@import url('http://fonts.googleapis.com/css?family=Cardo:400italic,400');
+
+$base-font-size: 16px;
+$text-color: #464646;
+$base-font: "Cardo", "Palatino", sans-serif;
+$body-bg: #C52775;
+$highlight-color: #C52775;
+$headline-color: #000;
+$headline-font: "Cardo", "Palatino";
+
+// typography
+body {
+  font-family: $base-font;
+  font-size: $base-font-size;
+  line-height: 1.15;
+  color: $text-color;
+  font-weight: normal;
+  -webkit-text-size-adjust: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headline-font;
+  font-style: italic;
+	font-weight: 400;
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+strong {
+  font-weight: bolder;
+}
+small {
+  font-size: 60%;
+}
+p, ul, ol, {
+  margin-bottom: 1em;
+}
+ul > li, ol > li {
+  margin-left: 1.5em;
+}
+
+// colors
+body {
+  background: $body-bg;
+}
+.container {
+  background: #fff;
+}
+a {
+  color: $highlight-color;
+  text-decoration: unerline;
+  &:visited {
+    color: darken($highlight-color, 10);
+  }
+  &:active {
+    color: lighten($highlight-color, 10);
+  }
+  &:hover {
+    color: lighten($highlight-color, 20);
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+  color: $headline-color;
+}
+
+// layout
+.container {
+  margin: {
+    top: 3em;
+    bottom: 3em;
+    left: auto;
+    right: auto;
+  }
+  max-width: 640px;
+  padding: 2em 3em;
+  box-shadow: 5px 5px 50px darken($body-bg, 20);
+}
+
+.container > footer {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid $text-color;
+}

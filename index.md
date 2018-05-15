@@ -1,8 +1,9 @@
 ---
 layout: default
+title:
 ---
 Ich komme aus Berlin, schreibe, übersetze, poste & liebe DIY.      
-Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
+Du erreichst mich unter [{{site.email}}](mailto:{{site.email}})
 
 ## Ich blogge unter
 *  [Lotterliebe.de](http://lotterliebe.de)
@@ -20,7 +21,7 @@ Du erreichst mich unter [hallo@sarahcurth.de](mailto:hallo@sarahcurth.de)
 *  [foobugs](http://foobugs.com)
 
 ## Finde mich auf
-*  [Xing](https://www.xing.com/profile/Sarah_Curth)
-*  [LinkedIn](https://www.linkedin.com/in/sarahcurth)
-*  [Twitter](https://twitter.com/#!/Lotterliebe)
-*  [Instagram](http://ink361.com/#/users/6785007/photos)
+*  [Xing](https://www.xing.com/profile/{{ site.xing_username }})
+*  [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }})
+*  [Twitter](https://twitter.com/{{ site.twitter_username }})
+*  [Instagram](https://www.instagram.com/{{ site.instagram_username }}/)

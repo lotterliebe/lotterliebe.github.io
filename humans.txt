@@ -2,19 +2,19 @@
 /* humanstxt.org */
 
 /* TEAM */
-Chef: Sarah Curth
-Site: http://www.sarahcurth.de
+Chef: Sarah Eichner
+Site: https://www.saraheichner.de
 Twitter: @lotterliebe
 Location: Berlin, Germany
 
 Code: Marcel Eichner
-Site: http://www.marceleichner.de
+Site: https://www.marceleichner.de
 Twitter: @ephigenia
 Location: Berlin, Germany
 
 /* SITE */
 Standards: HTML5, CSS3
-Components: SASS, Compass
+Components: SASS
 Software: Jekyll, Rake
 
 /* THANKS */

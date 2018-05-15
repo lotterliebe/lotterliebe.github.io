@@ -1,8 +1,30 @@
-pygments: true
-markdown: kramdown
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-title: Sarah Curth
-subtitle: Freie Texterin & Online-Redakteurin
-author: Sarah Curth
+markdown: kramdown
+timezone: Europe/Berlin
+
+# Site settings
+baseurl: ""
+url: https://www.saraheichner.de # the base hostname & protocol for your site
+title: Sarah Eichner
+subtitle: Texterin & Online-Redakteurin aus Berlin
+email: mail@saraheichner.de
+description: >
+  Sarah Eichner - Texterin & Online-Redakteurin aus Berlin
 keywords: Freie Texterin,Online-Redakteurin,Berlin,Redaktion,Lektorat,Texten,Schreiben,Korrektur,Autor,Bloggen,Berlin,Übersetzung
-description: Sarah Curth - Freie Texterin & Online-Redakteurin
+
+twitter_username: lotterliebe
+github_username: lotterliebe
+xing_username: Sarah_Eichner
+linkedin_username: sarahcurth
+instagram_username: lotterliebe
+
+repository: lotterliebe/lotterliebe.github.io
+
+sass:
+  style: compressed

@@ -1,13 +1,14 @@
 ---
 title: Impressum
 layout: default
+permalink: /imprint
 ---
 # Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Sarah Curth  
-Warschauer Str. 58a  
-10243 Berlin  
-Kontakt: hallo@sarahcurth.de
+Schnellerstr. 42  
+12439 Berlin  
+Kontakt: {{ site.email }}
 
 # Haftungsausschluss
 
