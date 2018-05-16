@@ -7,10 +7,15 @@
 
 markdown: kramdown
 timezone: Europe/Berlin
+sass:
+  style: compressed
 
 # Site settings
-baseurl: ""
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.saraheichner.de # the base hostname & protocol for your site
+repository: lotterliebe/lotterliebe.github.io
+
+# content settings
 title: Sarah Eichner
 subtitle: Texterin & Online-Redakteurin aus Berlin
 email: mail@saraheichner.de
@@ -18,13 +23,20 @@ description: >
   Sarah Eichner - Texterin & Online-Redakteurin aus Berlin
 keywords: Freie Texterin,Online-Redakteurin,Berlin,Redaktion,Lektorat,Texten,Schreiben,Korrektur,Autor,Bloggen,Berlin,Übersetzung
 
+# profiles
 twitter_username: lotterliebe
 github_username: lotterliebe
 xing_username: Sarah_Eichner
 linkedin_username: sarahcurth
 instagram_username: lotterliebe
 
-repository: lotterliebe/lotterliebe.github.io
-
-sass:
-  style: compressed
+# List of files & directories jekyll should not put into the _site directory
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - MIT-LICENSE
+  - Procfile
+  - Rakefile
+  - README.md
