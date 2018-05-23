@@ -2,13 +2,17 @@
 title: Impressum
 layout: default
 permalink: /imprint
+# test structured data with:
+#   https://search.google.com/structured-data/testing-tool/u/0/?hl=de
 ---
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Sarah Eichner  
+Texterin & Online-Redakteurin  
 Schnellerstr. 42  
 12439 Berlin  
-Kontakt: {{ site.email }}
+Germany  
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## Haftungsausschluss
 

@@ -54,6 +54,9 @@ p, ul, ol, {
 ul > li, ol > li {
   margin-left: 1.5em;
 }
+.hidden {
+  display: none;
+}
 
 // colors
 body {
