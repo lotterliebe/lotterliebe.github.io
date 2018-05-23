@@ -2,6 +2,8 @@
 layout: default
 title:
 ---
+<img class="post-image-pushed-right" src="{{ site.baseurl }}/assets/img/sarah-eichner-photo.jpg" title="Sarah Eichner" />
+
 Ich komme aus Berlin, schreibe, übersetze, poste & liebe DIY.      
 Du erreichst mich unter [{{site.email}}](mailto:{{site.email}})
 
