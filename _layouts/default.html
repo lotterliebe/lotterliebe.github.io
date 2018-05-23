@@ -15,7 +15,7 @@
       "@context": "http://schema.org",
       "@type": "Person",
       "name": "Sarah Eichner",
-      "jobTItle": "Texterin & Online Redakteurin",
+      "jobTitle": "Texterin & Online Redakteurin",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Schnellerstr. 42",
@@ -24,11 +24,12 @@
         "postalCode": "12439"
       },
       "email": "{{ site.email }}",
+      "url": "{{ site.url }}",
       "sameAs": [
-        "https://www.xing.com/profile/{{ site.xing_username }}",
-        "https://www.linkedin.com/in/{{ site.linkedin_username }}",
         "https://twitter.com/{{ site.twitter_username }}",
-        "https://www.instagram.com/{{ site.instagram_username }}/"
+        "https://www.instagram.com/{{ site.instagram_username }}",
+        "https://www.linkedin.com/in/{{ site.linkedin_username }}",
+        "https://www.xing.com/profile/{{ site.xing_username }}"
       ]
     }
     </script>
@@ -52,8 +53,8 @@
       	</section>
       </article>
       <footer>
-        <a href="/">Home</a>
-      	<a href="/imprint">Impressum</a>
+        <a href="/" rel="start">Home</a>
+      	<a href="/imprint" rel="license">Impressum</a>
       	<a href="/privacy-statement">Datenschutzerklärung</a>
       </footer>
     </div>
