@@ -40,6 +40,3 @@ exclude:
   - Procfile
   - Rakefile
   - README.md
-
-include:
-  - googleed6769aecb756e59.html
